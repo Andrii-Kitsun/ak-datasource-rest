@@ -6,7 +6,7 @@
 
 - [#7](https://github.com/Andrii-Kitsun/ak-datasource-rest/pull/7) [`34b944a`](https://github.com/Andrii-Kitsun/ak-datasource-rest/commit/34b944aa6e364eeec4192a458de2725a3d3214d5) Thanks [@Andrii-Kitsun](https://github.com/Andrii-Kitsun)! - Change package access to private
 
-- [#7](https://github.com/Andrii-Kitsun/ak-datasource-rest/pull/7) [`34b944a`](https://github.com/Andrii-Kitsun/ak-datasource-rest/commit/34b944aa6e364eeec4192a458de2725a3d3214d5) Thanks [@Andrii-Kitsun](https://github.com/Andrii-Kitsun)! - asdasdas
+- [#7](https://github.com/Andrii-Kitsun/ak-datasource-rest/pull/7) [`34b944a`](https://github.com/Andrii-Kitsun/ak-datasource-rest/commit/34b944aa6e364eeec4192a458de2725a3d3214d5) Thanks [@Andrii-Kitsun](https://github.com/Andrii-Kitsun)! - update
 
 ## 0.3.1
 
