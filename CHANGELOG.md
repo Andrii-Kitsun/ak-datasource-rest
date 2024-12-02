@@ -1,5 +1,11 @@
 # ak-datasource-rest
 
+## 0.3.3
+
+### Patch Changes
+
+- [#10](https://github.com/Andrii-Kitsun/ak-datasource-rest/pull/10) [`2b6207a`](https://github.com/Andrii-Kitsun/ak-datasource-rest/commit/2b6207ae732e0ccaae4c0f8426860a260045e7b2) Thanks [@Andrii-Kitsun](https://github.com/Andrii-Kitsun)! - minor 3 summary
+
 ## 0.3.2
 
 ### Patch Changes
